@@ -45,13 +45,13 @@ Desarrollador de software especializado en el ecosistema .NET con amplia experie
 - Clean Code & SOLID principles
 - Control de versiones con Git
 
----
+[---
 
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiscarlosperezfuentess&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarlosperezfuentess&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarlosperezfuentess&layout=compact&theme=radical&hide_border=true)](url)
 
 ---
 
