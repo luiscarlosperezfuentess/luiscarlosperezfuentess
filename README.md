@@ -19,7 +19,7 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🎯 Frameworks & Plataformas
-![.NET](https://img.shields.io/badge/.NET_5%2F6%2F7%2F8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_5%2F6%2F7%2F8%2F9%2F10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework_4.x-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -78,15 +78,6 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
 - ✅ Optimización de consultas y rendimiento en SQL Server, PostgreSQL y MySQL
 - ✅ Autenticación y autorización con Identity, JWT, Claims y Roles
 - ✅ Automatización de procesos con servicios en segundo plano
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luiscarlosperezfuentess&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarlosperezfuentess&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
