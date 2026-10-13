@@ -81,13 +81,4 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
 
 ---
 
-## 📫 Contacto
 
-¿Interesado en colaborar o hablar sobre desarrollo .NET? ¡Conectemos!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlosperezfuentess)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiscarlosperezfuentess)
-
----
-
-⭐️ *"Primero resuelve el problema. Luego escribe el código."* — John Johnson
