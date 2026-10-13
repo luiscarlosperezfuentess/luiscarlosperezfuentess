@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:68217A&height=200&section=header&text=Luis%20Carlos%20P%C3%A9rez%20Fuentes&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=C%23%20%C2%B7%20.NET%20%C2%B7%20Blazor%20%C2%B7%20Angular%20%C2%B7%20SQL&descSize=18&descAlignY=55&animation=fadeIn" alt="Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:68217A&height=200&section=header&text=Luis%20Carlos%20Perez%20Fuentes&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=C%23%20%C2%B7%20.NET%20%C2%B7%20Blazor%20%C2%B7%20Angular%20%C2%B7%20SQL&descSize=18&descAlignY=55&animation=fadeIn" alt="Banner" />
 
 <div align="center">
 
-# 👋 ¡Hola! Soy Luis Carlos Pérez Fuentes
+# 👋 ¡Hola! Soy Luis Carlos Perez Fuentes
 
 ## 💼 Desarrollador .NET Full Stack
 
