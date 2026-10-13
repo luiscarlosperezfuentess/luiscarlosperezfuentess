@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Luis Carlos Pérez Fuentes
+# 👋 ¡Hola! Soy Luis Carlos Perez Fuentes
 
 ## 💼 Desarrollador .NET Full Stack
 
