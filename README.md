@@ -26,7 +26,7 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./tech-globe-dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./tech-globe-light.gif">
-    <img alt="Tecnologías" src="./tech-globe-light.gif" width="420">
+    <img alt="Tecnologías" src="./tech-globe-dark.gif" width="420">
   </picture>
 </p>
 
