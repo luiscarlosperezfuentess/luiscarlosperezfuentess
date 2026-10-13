@@ -1,20 +1,28 @@
+<div align="center">
+
 # 👋 ¡Hola! Soy Luis Carlos Pérez Fuentes
 
 ## 💼 Desarrollador .NET Full Stack
+
+</div>
 
 Ingeniero de Sistemas y desarrollador con **más de 7 años de experiencia** en el ecosistema **.NET**, construyendo aplicaciones empresariales robustas y escalables: desde aplicaciones de escritorio hasta soluciones web modernas, APIs RESTful y bases de datos de alto rendimiento.
 
 Me apasiona escribir código limpio, resolver problemas complejos y compartir conocimiento con otros desarrolladores. 🚀
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luiscarlosperezfuentess-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlosperezfuentess)
+
+</div>
 
 ---
 
 ## 🚀 Stack Tecnológico
 
 ### 💻 Lenguajes
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
@@ -50,7 +58,7 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
 ### 🔐 Seguridad
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=openid&logoColor=white)
 
 ### 🐳 DevOps & Herramientas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -61,7 +69,7 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ### 🛠️ Prácticas & Arquitectura
-- **Clean Architecture**, **DDD** y **CQRS**
+- **Clean Architecture**, **Vertical Slice Architecture**, **DDD** y **CQRS**
 - **SOLID**, Clean Code y patrones de diseño
 - **Dependency Injection**, **LINQ** y programación asíncrona (`async/await`)
 
@@ -78,7 +86,3 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
 - ✅ Optimización de consultas y rendimiento en SQL Server, PostgreSQL y MySQL
 - ✅ Autenticación y autorización con Identity, JWT, Claims y Roles
 - ✅ Automatización de procesos con servicios en segundo plano
-
----
-
-
