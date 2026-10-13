@@ -26,7 +26,7 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./tech-globe-dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./tech-globe-light.gif">
-    <img alt="Tecnologías" src="./tech-globe-dark.gif" width="420">
+    <img alt="Tecnologías" src="./tech-globe-light.gif" width="420">
   </picture>
 </p>
 
@@ -77,6 +77,8 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🛠️ Prácticas & Arquitectura
 - **Clean Architecture**, **Vertical Slice Architecture**, **DDD** y **CQRS**
