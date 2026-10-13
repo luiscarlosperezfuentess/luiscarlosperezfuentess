@@ -1,98 +1,102 @@
-<div align="center">
+# 👋 ¡Hola! Soy Luis Carlos Pérez Fuentes
 
-# Hola, soy Luis Carlos Pérez Fuentes 👋
+## 💼 Desarrollador .NET Full Stack
 
-### Desarrollador .NET Full Stack · Sistemas ERP · Blazor
+Ingeniero de Sistemas y desarrollador con **más de 7 años de experiencia** en el ecosistema **.NET**, construyendo aplicaciones empresariales robustas y escalables: desde aplicaciones de escritorio hasta soluciones web modernas, APIs RESTful y bases de datos de alto rendimiento.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Aplicaciones+empresariales+con+.NET;Blazor+%7C+ASP.NET+Core+%7C+Web+API;ERP+de+inventario+y+ventas;C%C3%B3digo+limpio+y+arquitectura+s%C3%B3lida" alt="Typing SVG" /></a>
+Me apasiona escribir código limpio, resolver problemas complejos y compartir conocimiento con otros desarrolladores. 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlosperezfuentess)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiscarlosperezfuentess)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luiscarlosperezfuentess-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlosperezfuentess)
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🚀 Stack Tecnológico
 
-Desarrollo software empresarial en el ecosistema **.NET**, desde aplicaciones de escritorio hasta soluciones web modernas y APIs REST. Mi foco principal son los **sistemas ERP de inventario y ventas**: modelar procesos de negocio reales y convertirlos en aplicaciones mantenibles, rápidas y seguras.
+### 💻 Lenguajes
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-- 🔭 Actualmente construyendo un **ERP con Blazor y .NET 8**
-- 🏗️ Me interesa la **arquitectura de aplicaciones web** y la **seguridad** desde el diseño
-- 🔄 Experiencia **modernizando** aplicaciones legacy (Web Forms, WinForms, .NET Framework) hacia .NET moderno
-- 💬 Pregúntame sobre **Blazor, EF Core, Dapper o diseño de APIs**
+### 🎯 Frameworks & Plataformas
+![.NET](https://img.shields.io/badge/.NET_5%2F6%2F7%2F8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework_4.x-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
----
+### 🎨 Frontend
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web Forms](https://img.shields.io/badge/Web_Forms-555555?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## 🛠️ Stack tecnológico
+### 🖥️ Escritorio & Multiplataforma
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-**Lenguajes**
+### ⚙️ Backend & Servicios
+![Web API](https://img.shields.io/badge/Web_API_REST-0A66C2?style=for-the-badge&logo=swagger&logoColor=white)
+![WCF](https://img.shields.io/badge/WCF-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+### 🗄️ Bases de Datos & ORM
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-333333?style=for-the-badge&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-68217A?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Web & Backend**
+### 🔐 Seguridad
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web_API_REST-0A66C2?style=flat-square&logo=swagger&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC_%2F_Razor_Pages-68217A?style=flat-square&logo=dotnet&logoColor=white)
-![Web Forms](https://img.shields.io/badge/Web_Forms-555555?style=flat-square&logo=dotnet&logoColor=white)
+### 🐳 DevOps & Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-**Escritorio & Multiplataforma**
-
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white)
-
-**Datos**
-
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-333333?style=flat-square&logo=dotnet&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-68217A?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Herramientas**
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 🎯 Lo que hago
-
-| Área | Enfoque |
-|---|---|
-| 🏢 **Aplicaciones empresariales** | ERP, inventario, ventas, lógica de negocio compleja |
-| 🌐 **Web moderna** | SPAs con Blazor Server / WebAssembly y ASP.NET Core |
-| 🔌 **APIs y servicios** | APIs RESTful, integración de sistemas, microservicios |
-| 🗄️ **Datos** | Diseño y optimización de bases de datos, migración de datos |
-| 🖥️ **Escritorio** | WPF, WinForms y .NET MAUI |
-| 🧱 **Calidad** | SOLID, Clean Code, patrones de diseño, inyección de dependencias, LINQ |
+### 🛠️ Prácticas & Arquitectura
+- **Clean Architecture**, **DDD** y **CQRS**
+- **SOLID**, Clean Code y patrones de diseño
+- **Dependency Injection**, **LINQ** y programación asíncrona (`async/await`)
 
 ---
 
-## 📊 Estadísticas
+## 🎯 Áreas de Especialización
 
-<div align="center">
+- ✅ Desarrollo de aplicaciones empresariales con .NET Framework y .NET moderno
+- ✅ Arquitectura de software limpia, mantenible y escalable
+- ✅ APIs RESTful, servicios WCF e integración de sistemas
+- ✅ Frontend moderno con Blazor y Angular
+- ✅ Aplicaciones de escritorio y multiplataforma con WPF, WinForms y .NET MAUI
+- ✅ Modelado de datos, procedimientos almacenados, triggers e índices
+- ✅ Optimización de consultas y rendimiento en SQL Server, PostgreSQL y MySQL
+- ✅ Autenticación y autorización con Identity, JWT, Claims y Roles
+- ✅ Automatización de procesos con servicios en segundo plano
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luiscarlosperezfuentess&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarlosperezfuentess&layout=compact&hide_border=true" alt="Top languages" />
+---
 
-</div>
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luiscarlosperezfuentess&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarlosperezfuentess&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Contacto
 
-¿Tienes un proyecto .NET, un ERP que modernizar o quieres colaborar? Escríbeme por [LinkedIn](https://www.linkedin.com/in/luiscarlosperezfuentess).
+¿Interesado en colaborar o hablar sobre desarrollo .NET? ¡Conectemos!
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlosperezfuentess)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiscarlosperezfuentess)
 
-*"Primero resuelve el problema. Luego escribe el código."* — John Johnson
+---
 
-</div>
+⭐️ *"Primero resuelve el problema. Luego escribe el código."* — John Johnson
