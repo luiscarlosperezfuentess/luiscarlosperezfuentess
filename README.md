@@ -1,6 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:68217A&height=200&section=header&text=Luis%20Carlos%20P%C3%A9rez%20Fuentes&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=C%23%20%C2%B7%20.NET%20%C2%B7%20Blazor%20%C2%B7%20Angular%20%C2%B7%20SQL&descSize=18&descAlignY=55&animation=fadeIn" alt="Banner" />
+
 <div align="center">
 
-# 👋 ¡Hola! Soy Luis Carlos Perez Fuentes
+# 👋 ¡Hola! Soy Luis Carlos Pérez Fuentes
 
 ## 💼 Desarrollador .NET Full Stack
 
@@ -19,6 +21,14 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
 ---
 
 ## 🚀 Stack Tecnológico
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./tech-globe-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./tech-globe-light.gif">
+    <img alt="Tecnologías" src="./tech-globe-light.gif" width="420">
+  </picture>
+</p>
 
 ### 💻 Lenguajes
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -86,3 +96,5 @@ Me apasiona escribir código limpio, resolver problemas complejos y compartir co
 - ✅ Optimización de consultas y rendimiento en SQL Server, PostgreSQL y MySQL
 - ✅ Autenticación y autorización con Identity, JWT, Claims y Roles
 - ✅ Automatización de procesos con servicios en segundo plano
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:68217A,100:512BD4&height=100&section=footer" alt="Footer" />
